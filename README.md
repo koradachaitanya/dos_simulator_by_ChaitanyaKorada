@@ -1,4 +1,4 @@
-# Security Automation & Ethical DoS Simulation
+# Ethical DoS Simulation
 
 ## Overview
 
